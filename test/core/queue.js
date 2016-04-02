@@ -21,7 +21,7 @@ describe('queue', function(){
     }
 
     var connectionDetails = {
-      pkg:   specHelper.connectionDetails.pkg,
+      pkg:       specHelper.connectionDetails.pkg,
       host:      "wronghostname",
       password:  specHelper.connectionDetails.password,
       port:      specHelper.connectionDetails.port,

@@ -15,7 +15,7 @@ exports.specHelper = {
   queue: queue,
   timeout: 500,
   connectionDetails: {
-    pkg:   pkg,
+    pkg:       pkg,
     host:      "127.0.0.1",
     password:  "",
     port:      6379,
